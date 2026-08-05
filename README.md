@@ -1,5 +1,5 @@
 # **Comparison and Development of Tree Height and Biomass Allometries Based on Terrestrial Laser Scanning Data of Forests in Ghana**
-## - Evaluation of Existing Allometric Models and Development of Ghana-Specific Height and Biomass Relationships
+## Evaluation of Existing Allometric Models and Development of Ghana-Specific Height and Biomass Relationships
 
 
 Author: Nils L. Laudenbach  
