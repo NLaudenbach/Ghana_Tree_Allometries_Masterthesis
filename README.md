@@ -35,6 +35,12 @@ The study is based on six one-hectare forest plots located in three regions of G
 
 The plots represent wet evergreen forest, moist semi-deciduous forest, dry semi-evergreen forest, wooded savanna and a forest–savanna transition zone.
 
+### Data
+
+The study is based on terrestrial laser scanning data from six one-hectare plots in Ghana. The TLS data were acquired using RIEGL VZ-400i and RIEGL VZ-600i laser scanners. Multiple scan positions were used within each plot to produce dense three-dimensional point clouds of the forest structure.
+
+Additional forest inventory data provided by the Forestry Research Institute of Ghana are used to assign information such as tree ID, species and condition to the segmented trees. Species-specific wood density values are obtained from various Wood Denisty Databases. Environmental and site-related variables include precipitation, temperature, drought stress, elevation and soil conditions.
+
 
 ### Workflow
 
