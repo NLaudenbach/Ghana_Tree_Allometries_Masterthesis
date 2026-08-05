@@ -1,2 +1,2 @@
-# MT_Tree_Height_Allometries
+# Ghana  Tree Allometries
 Masterthesis of Nils Laudenbach
